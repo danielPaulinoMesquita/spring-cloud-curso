@@ -1,0 +1,4 @@
+/home/danielpaulino/Cursos/curso_udemy/curso_spring_cloud_nelio_alves/microservices-do-curso/rh-trabalhador/src/main/java/com/cursospringcloud/rhtrabalhador/resources/TrabalhadorResource.java
+/home/danielpaulino/Cursos/curso_udemy/curso_spring_cloud_nelio_alves/microservices-do-curso/rh-trabalhador/src/main/java/com/cursospringcloud/rhtrabalhador/entities/Trabalhador.java
+/home/danielpaulino/Cursos/curso_udemy/curso_spring_cloud_nelio_alves/microservices-do-curso/rh-trabalhador/src/main/java/com/cursospringcloud/rhtrabalhador/repositories/TrabalhadorRepository.java
+/home/danielpaulino/Cursos/curso_udemy/curso_spring_cloud_nelio_alves/microservices-do-curso/rh-trabalhador/src/main/java/com/cursospringcloud/rhtrabalhador/RhTrabalhadorApplication.java

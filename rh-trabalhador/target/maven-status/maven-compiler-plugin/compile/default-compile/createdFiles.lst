@@ -1,0 +1,4 @@
+com/cursospringcloud/rhtrabalhador/RhTrabalhadorApplication.class
+com/cursospringcloud/rhtrabalhador/resources/TrabalhadorResource.class
+com/cursospringcloud/rhtrabalhador/repositories/TrabalhadorRepository.class
+com/cursospringcloud/rhtrabalhador/entities/Trabalhador.class
