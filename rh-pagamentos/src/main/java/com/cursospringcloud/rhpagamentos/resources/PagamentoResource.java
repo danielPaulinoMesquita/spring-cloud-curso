@@ -22,18 +22,6 @@ public class PagamentoResource {
         return ResponseEntity.ok(pagamento);
     }
 
-    /**
-     * Endpoint que consome método com chamada RestTemplate
-     * @param idTrabalhador
-     * @param dias
-     * @return
-     */
-    @GetMapping(value = "/rest-template/{idTrabalhador}/dias/{dias}")
-    public ResponseEntity<Pagamento> getPagamentoByRest(@PathVariable long idTrabalhador, @PathVariable Integer dias){
-        Pagamento pagamento = service.getPagamentoByRestTemplate(idTrabalhador, dias);
-        return ResponseEntity.ok(pagamento);
-    }
-
     @GetMapping(value = "/tst")
     public ResponseEntity<?> getPagamento(){
         String resp = "TESTANDO";
