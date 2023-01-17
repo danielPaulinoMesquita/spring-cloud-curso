@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rh-eurekaserver/demo.iml" filepath="$PROJECT_DIR$/rh-eurekaserver/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rh-api-gateway/rh-api-gateway.iml" filepath="$PROJECT_DIR$/rh-api-gateway/rh-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rh-pagamentos/rh-pagamentos.iml" filepath="$PROJECT_DIR$/rh-pagamentos/rh-pagamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rh-trabalhador/rh-trabalhador.iml" filepath="$PROJECT_DIR$/rh-trabalhador/rh-trabalhador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-curso.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-curso.iml" />
+    </modules>
+  </component>
+</project>

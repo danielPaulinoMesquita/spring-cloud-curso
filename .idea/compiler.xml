@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rh-api-gateway" />
+        <module name="rh-pagamentos" />
+        <module name="rh-trabalhador" />
+        <module name="demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="11" />
+      <module name="rh-api-gateway" target="11" />
+      <module name="rh-api-gateway-zuul" target="17" />
+      <module name="rh-pagamentos" target="11" />
+      <module name="rh-trabalhador" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="rh-api-gateway" options="-parameters" />
+      <module name="rh-api-gateway-zuul" options="-parameters" />
+      <module name="rh-pagamentos" options="-parameters" />
+      <module name="rh-trabalhador" options="-parameters" />
+    </option>
+  </component>
+</project>

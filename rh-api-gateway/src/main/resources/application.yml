@@ -1,0 +1,21 @@
+server:
+  port: 8760
+spring:
+  application:
+    name: rh-api-gateway
+  cloud:
+    gateway:
+      routes:
+      - id: rh-pagamento
+        uri: lb://rh-pagamento
+        predicates:
+        - Path=/pagamento/**
+      - id: rh-trabalhador
+        uri: lb://rh-trabalhador
+        predicates:
+        - Path=/trabalhadores/**
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
