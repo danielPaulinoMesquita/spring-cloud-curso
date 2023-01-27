@@ -9,6 +9,7 @@
         <module name="rh-api-gateway" />
         <module name="rh-pagamentos" />
         <module name="rh-trabalhador" />
+        <module name="rh-config-server" />
         <module name="demo" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="demo" target="11" />
       <module name="rh-api-gateway" target="11" />
       <module name="rh-api-gateway-zuul" target="17" />
+      <module name="rh-config-server" target="11" />
       <module name="rh-pagamentos" target="11" />
       <module name="rh-trabalhador" target="11" />
     </bytecodeTargetLevel>
@@ -25,6 +27,7 @@
       <module name="demo" options="-parameters" />
       <module name="rh-api-gateway" options="-parameters" />
       <module name="rh-api-gateway-zuul" options="-parameters" />
+      <module name="rh-config-server" options="-parameters" />
       <module name="rh-pagamentos" options="-parameters" />
       <module name="rh-trabalhador" options="-parameters" />
     </option>

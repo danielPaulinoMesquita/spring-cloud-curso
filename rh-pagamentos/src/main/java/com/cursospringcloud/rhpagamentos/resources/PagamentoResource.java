@@ -41,7 +41,7 @@ public class PagamentoResource {
     )
     @GetMapping(value = "/tst")
     public ResponseEntity<?> getPagamento() throws InterruptedException{
-        Thread.sleep(2500);
+        Thread.sleep(3500);
         String resp = "TESTANDO";
         return ResponseEntity.ok(resp);
     }
