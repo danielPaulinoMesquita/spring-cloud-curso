@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/rh-config-server/rh-config-server.iml" filepath="$PROJECT_DIR$/rh-config-server/rh-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/rh-pagamentos/rh-pagamentos.iml" filepath="$PROJECT_DIR$/rh-pagamentos/rh-pagamentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/rh-trabalhador/rh-trabalhador.iml" filepath="$PROJECT_DIR$/rh-trabalhador/rh-trabalhador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rh-usuario/rh-usuario.iml" filepath="$PROJECT_DIR$/rh-usuario/rh-usuario.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-curso.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-curso.iml" />
     </modules>
   </component>
