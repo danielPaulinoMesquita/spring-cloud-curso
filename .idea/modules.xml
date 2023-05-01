@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/rh-eurekaserver/demo.iml" filepath="$PROJECT_DIR$/rh-eurekaserver/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rh-api-gateway/rh-api-gateway.iml" filepath="$PROJECT_DIR$/rh-api-gateway/rh-api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/rh-config-server/rh-config-server.iml" filepath="$PROJECT_DIR$/rh-config-server/rh-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rh-oauth/rh-oauth.iml" filepath="$PROJECT_DIR$/rh-oauth/rh-oauth.iml" />
       <module fileurl="file://$PROJECT_DIR$/rh-pagamentos/rh-pagamentos.iml" filepath="$PROJECT_DIR$/rh-pagamentos/rh-pagamentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/rh-trabalhador/rh-trabalhador.iml" filepath="$PROJECT_DIR$/rh-trabalhador/rh-trabalhador.iml" />
       <module fileurl="file://$PROJECT_DIR$/rh-usuario/rh-usuario.iml" filepath="$PROJECT_DIR$/rh-usuario/rh-usuario.iml" />
