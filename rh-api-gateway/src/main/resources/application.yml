@@ -22,6 +22,8 @@ spring:
         uri: lb://rh-oauth
         predicates:
         - Path=/oauth/**
+        - Cookie=Cookie,Set-Cookie
+
 eureka:
   client:
     serviceUrl:
